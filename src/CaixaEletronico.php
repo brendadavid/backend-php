@@ -9,7 +9,7 @@ namespace Moovin\Job\Backend;
  * @author Brenda David <brenda.david@acad.pucrs.br>
  */
 
-<?php
+
 class CaixaEletronico
 {
 
