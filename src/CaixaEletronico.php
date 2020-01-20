@@ -5,7 +5,7 @@ namespace Moovin\Job\Backend;
 /**
  * Classe CaixaEletronico
    Não utilizei o Github para fazer o desenvolvimento, acabei utilizando uma IDE e um servidor de testes.
- * Fiquei com dúvidas em algumas questões de interpretação então coloquei uma possível opção de mudança de código no comentário da classe sacar.
+ * Fiquei com dúvida em algumas questões de interpretação então coloquei uma possível opção de mudança de código no comentário da classe sacar.
  * Coloquei alguns exemplos de utilização no main.php 
  @author Brenda David <brenda.david@acad.pucrs.br>
  */
